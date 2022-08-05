@@ -7,6 +7,8 @@ This is realization (only Frontend part) of NFT marketplace.
 
 NFT marketplace it's a place where you can buy or sell NFT by using Ethereum wallets.
 
+DEMO: https://nftplatform-open-ocean.vercel.app/
+
 Used technology stack:
 
 - React
